@@ -1,0 +1,36 @@
+.container{
+    background-color: rgba(255,255,255,255);
+    width: 80%;
+    height: 90vh;
+    border: 3px solid black;
+    margin-left: 3rem;
+}
+
+.nav-bar{
+    display: flex;
+    margin-top: 3rem;
+}
+
+.sneakers{
+    margin-left: 5rem;   
+}
+
+.nav-links{
+    margin-left: 3rem;
+    display: flex;
+    gap:10px;
+}
+
+.nav-icons{
+    margin-left: 48rem;
+    display: flex;
+    gap: 3rem;
+    width: 100px;
+    height: 40px;
+}
+
+.underline{
+    margin-top: 3rem;
+    border-bottom: 1px solid #828588;
+    opacity: 0.5;
+}
