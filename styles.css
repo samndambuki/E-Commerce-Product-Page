@@ -1,7 +1,7 @@
 .container{
     background-color: rgba(255,255,255,255);
     width: 80%;
-    height: 95vh;
+    height: 98vh;
     border: 3px solid black;
     margin-left: 3rem;
 }
@@ -35,6 +35,13 @@
     opacity: 0.5;
 }
 
+.contents{
+    display: flex;
+    width: 98%;
+    height: 83vh;
+    border: 2px solid yellow;
+}
+
 .content1{
     margin-top: 7rem;
     display: flex;
@@ -53,5 +60,17 @@
     display: flex;
 }
 
+.content2{
+    width: 60%;
+    height: 83vh;
+    border: 2px solid aqua;
+    margin-left: 8rem;
+}
+
+.underline1{
+    border: 1px solid #c7cad1;
+    margin-top: -24.5px;
+    width: 7%;
+}
 
 
